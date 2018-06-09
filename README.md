@@ -22,7 +22,7 @@ English and basic Canadian French
 
 Education
 ---------
-- **[Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/), [MIT Open Course Ware](https://ocw.mit.edu/index.htm), September 2014 - June 2016**
+- **[Electrical Engineering and Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/), [MIT Open Course Ware](https://ocw.mit.edu/index.htm), September 2014 - June 2016.**
   - Completed all assignments and exams
   - Not a credit-bearing, or degree-granting initiative
   - Self taught
@@ -34,13 +34,13 @@ Work Experience
     - Creating middleware for the entertainment industry
 
 - **[Pebbles Digital Media](http://www.pebblesdigitalmedia.com/), Mahwah, NJ, United States, Lead, August 2016 - Present.**
-    - Work on flagship digital media engine for digital advertisement
+    - Work on flagship digital media engine [Kobalt](http://www.pebblesdigitalmedia.com/what-is-kobalt)
     - Graphics programming
     - Network programming
     - Audio programming
 
 - **[Kot-in-Action Creative Artel](http://www.kot-in-action.com/), Del Rio, TX, United States, Contract work, November 2015 - January 2015.**
-    - Work on idTech4 modifications for Phaeton
+    - Work on idTech4 modifications
 
     Contributed to:
     - [Phaeton](http://www.kot-in-action.com/phaeton/about.html)
