@@ -13,7 +13,7 @@ Programming Skills
 * CPU Programming: x86, x86_64, ARMv4, ARMv6, ARM VFP, ATmega328 assembly
 * GPU APIs: OpenGL 3+, OpenGL ES 2+, WebGL, Direct3D 9+, Vulkan, RenderMan
 * Knowledge of frameworks, SDKs, engines and libraries: Qt 4+, SDL, SDL2, Allegro, OpenGL 3+, OpenGL ES 2+, Windows API, POSIX, Direct3D 9+ HLSL (SM 2.0 - SM 4.0), LLVM, NanoVG, NanoGUI, Recast, Blender Engine, RenderMan, CryEngine, Cube2, Gamebryo, ioQuake3, idTech4
-* Source control experience: Git, Mecrcurial, Subversion, CVS
+* Source control experience: Git, Mercurial, Subversion, CVS
 * Build tool experience: make, CMake, qmake, Premake, Ninja, GYP, Autotools, M4 macros, Gradle, MSBuild, Jam, Rake, SCons, Waf
 * Continous integration experience: Jenkins, TeamCity, TFS, Travis CI
 
