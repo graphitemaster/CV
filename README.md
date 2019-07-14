@@ -46,9 +46,6 @@ Work Experience
     Contributed to:
     - [Phaeton](http://www.kot-in-action.com/phaeton/about.html)
 
-- **[Staples](https://www.staples.ca), Timmins, ON, Canada, Buisness Sales, September 2015 - July 2016.**
-    - Sales of hardware, software and services to buisnesses.
-
 - **[Wayforward Technologies, Inc.](http://www.wayforward.com/), Santa Clarita, CA, United States, Engine Programmer, July 2012 - August 2013.**
     - Engine and tools programming
     - Build optimizations
