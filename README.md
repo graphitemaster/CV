@@ -8,8 +8,8 @@ Dale Weiler
 
 Programming Skills
 ------------------
-* Programming Languages: C, C++, C#, Python, Lua, Ruby, Bash, Perl
-* GPU Programming: GLSL, ESSL, ARBvp/ARBfp, NVvp/NVfp, NVIDIA Cg
+* Programming Languages: C, C++, C#, Python, Lua, Bash
+* GPU Programming: GLSL, ESSL, ARBvp/ARBfp, NVvp/NVfp, NVIDIA Cg, RSL
 * CPU Programming: x86, x86_64, ARMv4, ARMv6, ARM VFP, ATmega328 assembly
 * GPU APIs: OpenGL 3+, OpenGL ES 2+, WebGL, Direct3D 9+, Vulkan, RenderMan
 * Knowledge of frameworks, SDKs, engines and libraries: Qt 4+, SDL, SDL2, Allegro, OpenGL 3+, OpenGL ES 2+, Windows API, POSIX, Direct3D 9+ HLSL (SM 2.0 - SM 4.0), LLVM, NanoVG, NanoGUI, Recast, Blender Engine, RenderMan, CryEngine, Cube2, Gamebryo, ioQuake3, idTech4
@@ -19,7 +19,7 @@ Programming Skills
 
 Languages
 ---------
-English and basic Canadian French
+English
 
 Education
 ---------
@@ -32,17 +32,21 @@ Work Experience
 ---------------
 - **[Buckeye Software, Inc.](http://www.buckeyesoftware.ca/), Timmins, ON, Canada, CEO, March 2018 - Present.**
     - Owner and operator
-    - Creating middleware for the entertainment industry
+    - Creating middleware for the entertainment industry (software occlusion library called Pluck, SIMD anywhere, Rex game engine)
 
-- **[Pebbles Digital Media](http://www.pebblesdigitalmedia.com/), Mahwah, NJ, United States, Lead, August 2016 - Present.**
-    - Work on flagship digital media engine [Kobalt](http://www.pebblesdigitalmedia.com/what-is-kobalt)
-    - Graphics programming
-    - Network programming
-    - Audio programming
+- **[FFIPCO Technologies] Mahwah, NJ, United States, Contract (on and off), March 2018 - August 2020.**
+    - Additional contract work on the Kobalt engine (client of).
+
+- **[Pebbles Digital Media](http://www.pebblesdigitalmedia.com/), Mahwah, NJ, United States, Lead, August 2016 - March 2018**
+    - Build flagship digital media engine [Kobalt](http://www.pebblesdigitalmedia.com/what-is-kobalt)
+    - Owned and developed all engine systems including: audio, networking, graphics, physics, scene management, scripting
+    - Designed for advertisement industry, ran on a wide range of hardware including tablets and multiple display billboards
 
 - **[Kot-in-Action Creative Artel](http://www.kot-in-action.com/), Del Rio, TX, United States, Contract work, November 2015 - January 2015.**
-    - Work on idTech4 modifications
-
+    - Introduced improved stencil shadows to idTech4
+    - Rendering optimizations for skinned meshes
+    - Updated "dmap" offline map compilation pipeline to support new features
+    
     Contributed to:
     - [Phaeton](http://www.kot-in-action.com/phaeton/about.html)
 
@@ -50,7 +54,7 @@ Work Experience
     - Engine and tools programming
     - Build optimizations
     - Developed optimized containers and APIs for game programmers
-
+    
     Contributed to:
     - [DuckTales: Remastered](http://store.steampowered.com/app/237630/)
     - [Double Dragon: Neon](http://store.steampowered.com/app/252350/)
