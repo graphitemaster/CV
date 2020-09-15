@@ -34,7 +34,7 @@ Work Experience
     - Owner and operator
     - Creating middleware for the entertainment industry (software occlusion library called Pluck, SIMD anywhere, Rex game engine)
 
-- **[FFIPCO Technologies] Mahwah, NJ, United States, Contract (on and off), March 2018 - August 2020.**
+- **[FFIPCO Technologies](http://www.pebblesdigitalmedia.com/) Mahwah, NJ, United States, Contract (on and off), March 2018 - August 2020.**
     - Additional contract work on the Kobalt engine (client of).
 
 - **[Pebbles Digital Media](http://www.pebblesdigitalmedia.com/), Mahwah, NJ, United States, Lead, August 2016 - March 2018**
